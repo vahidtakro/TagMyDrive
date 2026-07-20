@@ -30,6 +30,38 @@ Now, 4 years after that event, I've realized that not knowing which files you've
 
 ---
 
+## Screenshots
+
+### Authentication
+
+![Authentication](Screenshots/TagMyDrive%20Screenshot%20(Authentication).png)
+
+### Create a Snapshot
+
+Select a folder, choose options, and generate an interactive HTML listing of your drive's contents.
+
+![Create Snapshot](Screenshots/TagMyDrive%20Screenshot%20(Create%20Snapshot).png)
+
+### Registered Disks & QR Codes
+
+Manage your drives, view Google Drive links, and preview QR codes — all in one place.
+
+![Registered Disks and QR codes](Screenshots/TagMyDrive%20Screenshot%20(Registered%20Disks%20and%20QR%20codes).png)
+
+### Membership & Plans
+
+Upgrade your tier via USDT BEP20 crypto payments, verified automatically through BSCScan.
+
+![Membership and Plans](Screenshots/TagMyDrive%20Screenshot%20(Membership%20and%20Plans).png)
+
+### Web Companion
+
+Manage your disks and QR codes from any browser — same database, same data.
+
+![Web Version](Screenshots/TagMyDrive%20Screenshot%20(Web%20Version).png)
+
+---
+
 ## How It Was Built
 
 ### The Foundation: Snap2HTML
